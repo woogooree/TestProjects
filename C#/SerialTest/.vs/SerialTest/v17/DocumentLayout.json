@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\qwe\\TestProjects\\C#\\SerialTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|C:\\Users\\qwe\\TestProjects\\C#\\SerialTest\\serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|solutionrelative:serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|C:\\Users\\qwe\\TestProjects\\C#\\SerialTest\\serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|solutionrelative:serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|c:\\users\\qwe\\testprojects\\c#\\serialtest\\serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|solutionrelative:serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|c:\\users\\qwe\\testprojects\\c#\\serialtest\\serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|solutionrelative:serialtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFA7C2E2-9876-44FC-9BB4-AED05CDF64F1}|SerialTest\\SerialTest.csproj|C:\\Users\\qwe\\TestProjects\\C#\\SerialTest\\serialtest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\SerialTest\\SerialTest\\Form1.cs",
               "RelativeDocumentMoniker": "SerialTest\\Form1.cs",
               "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\SerialTest\\SerialTest\\Form1.cs",
               "RelativeToolTip": "SerialTest\\Form1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAnwDYAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T01:20:04.743Z",
               "EditorCaption": ""
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\SerialTest\\SerialTest\\Form1.cs",
               "RelativeDocumentMoniker": "SerialTest\\Form1.cs",

@@ -8,3 +8,13 @@ C:\Users\qwe\source\repos\SerialTest\SerialTest\bin\Debug\SerialTest.exe
 C:\Users\qwe\source\repos\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
 C:\Users\qwe\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.exe
 C:\Users\qwe\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.AssemblyReference.cache
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.cache
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\qwe\TestProjects\C#\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
