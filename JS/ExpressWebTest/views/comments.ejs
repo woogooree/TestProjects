@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>글 작성 하나 만들기</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"/>
+    <style>
+        .grid {
+            grid-template-columns: 2fr 7fr 1fr;
+        }
+    </style>
+</head>
+<body>
+    <main class = 'container'>
+        <article>
+            <h1>글 작성</h1>
+            <form class = "grid" action="/comments" method="post">
+                <input type="text" name="nickname" id="" placeholder="작성자">
+                <input type="text" name="comment" id="" placeholder="글 내용">
+                <button>등록</button>
+            </form>
+        </article>
+        <article>
+            <h1>글 목록</h1>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>작성자</th>
+                        <th>내용</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% for (let i=0; i<comments.length; i++) { %>
+                    <tr>
+                        <td><%= comments[i].no %></td>
+                        <td><%= comments[i].nickname %></td>
+                        <td><%= comments[i].comment %></td>
+                    </tr>
+                    <% } %>
+                </tbody>
+            </table>
+
+            
+
+        </article>
+    </main>
+</body>
+</html>
