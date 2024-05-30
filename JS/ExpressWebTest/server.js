@@ -51,6 +51,40 @@ app.get('/comments', (요청, 응답) => {
     });
 })
 
+// 댓글 수정 화면 (GET)
+app.get('/comments/:id', (요청, 응답) => {
+    const sql = 'SELECT * FROM comment WHERE no = ?';
+    const id = [요청.params.id];
+
+    connection.query(sql, id, (err, results) => {
+        if (err) {
+            console.error('데이터베이스 오류:', err);
+            return 응답.status(500).send('서버 오류');
+        }
+        응답.render('edit', { comments : results })
+    });
+})
+
+// 댓글 수정 API (PUT, JSON으로 받기)
+app.put('/api/comments/:no', express.json(), (요청, 응답) => {
+    console.log(요청.body);
+
+    응답.send('ok');
+})
+
+// 댓글 페이지 API
+app.get('/api/comments', (요청, 응답) => {
+    const sql = 'SELECT * FROM comment order by no desc';
+
+    connection.query(sql, (err, results) => {
+        if (err) {
+            console.error('데이터베이스 오류:', err);
+            return 응답.status(500).send('서버 오류');
+        }
+        응답.json({ comments : results });
+    });
+})
+
 // 댓글 등록 데이터 처리
 app.post('/comments', (요청, 응답) => {
 
@@ -66,3 +100,22 @@ app.post('/comments', (요청, 응답) => {
         응답.redirect('/comments');
     });
 })
+
+// 댓글 삭제 API
+
+app.delete('/api/comments/:id', (요청, 응답) => {
+    const sql = 'DELETE FROM comment WHERE no = ?';
+    const id = [요청.params.id];
+    
+    connection.query(sql, id, (err, results) => {
+        if (results.affectedRows == 0) {
+            응답.status(500).json({"result":"FAIL"})
+        }
+        if (err) {
+            console.error('데이터베이스 오류:', err);
+            return 응답.status(500).send('서버 오류');
+        }
+        응답.json({"result" : "OK"});
+    });
+})
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>댓글수정</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"/>
+    <style>
+        .grid {
+            grid-template-columns: 2fr 7fr 1fr;
+        }
+    </style>
+</head>
+<body>
+    <main class = 'container'>
+        <article>
+            <h1>글 수정</h1>
+            <form class = "grid" action="/comments" method="post">
+                <input type="text" name="nickname" id="" placeholder="작성자" value="<%= comments[0].nickname %>">
+                <input type="text" name="comment" id="" placeholder="글 내용" value="<%= comments[0].comment %>">
+                <input type="submit" value="수정">
+            </form>
+        </article>
+    </main>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>서버 메인화면</title>
+</head>
+<body>
+    <h3>카운팅</h3>
+    <h1><%= count %></h1>
+    <button onclick="countUp()">UP</button>
+    <button onclick="resetCount()">RESET</button>
+</body>
+<script>
+    function countUp() {
+        const requestOptions = {
+            method: "PUT",
+            body: "",
+            redirect: "follow"
+        };
+
+        fetch("/count", requestOptions)
+            .then((response) => location.reload())
+    }
+
+    function resetCount() {
+        const requestOptions = {
+            method: "DELETE",
+            body: "",
+            redirect: "follow"
+        };
+
+        fetch("/reset", requestOptions)
+            .then((response) => location.reload())
+    }
+</script>
+</html>
