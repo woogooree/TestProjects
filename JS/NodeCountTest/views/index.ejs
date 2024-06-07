@@ -9,6 +9,7 @@
     <h3>카운팅</h3>
     <h1><%= count %></h1>
     <button onclick="countUp()">UP</button>
+    <button onclick="changeCount()">EDIT</button>
     <button onclick="resetCount()">RESET</button>
 </body>
 <script>
@@ -20,7 +21,40 @@
         };
 
         fetch("/count", requestOptions)
-            .then((response) => location.reload())
+            .then((response) => response.text())
+            .then((result) => location.reload())
+            .catch((error) => console.log('error', error));
+    }
+
+    function changeCount() {
+        const count = (prompt('수정할 값'));
+        if (count === null) {
+            return;
+        }
+        const parsedCount = parseInt(count, 10);
+
+        if (isNaN(parsedCount)) {
+            alert('유효한 숫자를 입력하세요');
+            return;
+        }
+
+        const requestOptions = {
+            method: "PUT",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ count: parsedCount }),
+            redirect: "follow"
+        };
+
+        fetch("/change", requestOptions)
+            .then((response) => response.text())
+            .then((result) => location.reload())
+            .catch((error) => console.log('error', error));
+        // 과제 : 수정할 값을 put으로 요청하는 코드 작성
+        // ttaengz@naver.com 메일제목 : 서버기초과제_[학번]_[이름]
+        // zip으로 압축파일 첨부 : 메일제목과 같이.zip
+
     }
 
     function resetCount() {
@@ -31,7 +65,13 @@
         };
 
         fetch("/reset", requestOptions)
-            .then((response) => location.reload())
+            .then((response) => response.json())
+            .then((json)=> {
+                if (json.result == 'OK') {
+                    location.reload()
+                }
+            })
+            
     }
 </script>
 </html>
