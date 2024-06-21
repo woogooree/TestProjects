@@ -9,17 +9,48 @@
 <body>
     <header>
         <div class = "container">
+            <% if (user) { %>
+                <span><%= user.nickname %>님 환영합니다.</span>
+                <a href="/logout">로그아웃</a>
+                <a href="/form">글작성</a>
+            <% } else { %>
             <a href="/join">회원 등록</a>
+            <a href="/login">로그인</a>
+            <% } %>
         </div>
     </header>
     <main class = "container">
-        <h1>게시글 목록</h1>
-        <ul>
-            <li>글</li>
-            <li>글</li>
-            <li>글</li>
-            <li>글</li>
-        </ul>
+        <article>
+            <h1>게시글 목록</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th>번호</th>
+                        <th>제목</th>
+                        <th>작성자</th>
+                        <th>작성일</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% for (p of posts) { %>
+                    <tr>
+                        <td><% p.no %></td>
+                        <td><a href="/posts/<%= p.no %>"><% p.title %></a></td>
+                        <td><% p.nickname %></td>
+                        <td><% p.regdt %></td>
+                        <td>
+                            <% if (user && user.id == p.reg_user_id) { %>
+                            <form action="/delete" method="post">
+                                <input type="hidden" name="no" value="<%= p.no %>">
+                                <input type="submit" style="padding: 1px; height: 44px;" value="삭제">
+                            </form>
+                            <% } %>
+                        </td>
+                    </tr>
+                    <% } %>
+                </tbody>
+            </table>
+        </article>
     </main>
 </body>
 </html>

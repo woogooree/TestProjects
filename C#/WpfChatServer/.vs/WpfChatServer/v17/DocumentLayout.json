@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|c:\\users\\qwe\\testprojects\\c#\\wpfchatserver\\wpfchatserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|solutionrelative:wpfchatserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\wpfchatserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|solutionrelative:wpfchatserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|c:\\users\\qwe\\testprojects\\c#\\wpfchatserver\\wpfchatserver\\mainserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|solutionrelative:wpfchatserver\\mainserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\wpfchatserver\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|solutionrelative:wpfchatserver\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\wpfchatserver\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|solutionrelative:wpfchatserver\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\wpfchatserver\\staticdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5D562A-C671-4BCA-B075-6FBF5C3BB995}|WpfChatServer\\WpfChatServer.csproj|solutionrelative:wpfchatserver\\staticdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfChatServer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\MainWindow.xaml",
+              "RelativeToolTip": "WpfChatServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T01:08:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientData.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\ClientData.cs",
+              "RelativeDocumentMoniker": "WpfChatServer\\ClientData.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\ClientData.cs",
+              "RelativeToolTip": "WpfChatServer\\ClientData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:52:50.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\ClientManager.cs",
+              "RelativeDocumentMoniker": "WpfChatServer\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\ClientManager.cs",
+              "RelativeToolTip": "WpfChatServer\\ClientManager.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:50:53.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainServer.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\MainServer.cs",
+              "RelativeDocumentMoniker": "WpfChatServer\\MainServer.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\MainServer.cs",
+              "RelativeToolTip": "WpfChatServer\\MainServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:49:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfChatServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfChatServer\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:44:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaticDefine.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\StaticDefine.cs",
+              "RelativeDocumentMoniker": "WpfChatServer\\StaticDefine.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WpfChatServer\\WpfChatServer\\StaticDefine.cs",
+              "RelativeToolTip": "WpfChatServer\\StaticDefine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:53:37.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

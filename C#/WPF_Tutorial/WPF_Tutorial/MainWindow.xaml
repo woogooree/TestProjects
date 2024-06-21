@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPF_Tutorial.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Tutorial"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"></ColumnDefinition>
+            <ColumnDefinition Width="0.7*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Button Content="Text Button" Width="200" Height="80" Click="Button_Click"></Button>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Border BorderThickness="1" Width="500" Height="80" BorderBrush="Black">
+                <TextBlock Name="myTextBlock" TextAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

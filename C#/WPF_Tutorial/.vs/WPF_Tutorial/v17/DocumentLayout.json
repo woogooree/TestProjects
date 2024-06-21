@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|c:\\users\\qwe\\testprojects\\c#\\wpf_tutorial\\wpf_tutorial\\inputwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\inputwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\wpf_tutorial\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\wpf_tutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|c:\\users\\qwe\\testprojects\\c#\\wpf_tutorial\\wpf_tutorial\\inputwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\inputwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\wpf_tutorial\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\wpf_tutorial\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|c:\\users\\qwe\\testprojects\\c#\\wpf_tutorial\\wpf_tutorial\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\wpf_tutorial\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AEE3353-81E0-4EF8-A880-41CAA49A6744}|WPF_Tutorial\\WPF_Tutorial.csproj|solutionrelative:wpf_tutorial\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inputWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\inputWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\inputWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\inputWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Tutorial\\inputWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:31:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\inputWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\inputWindow.xaml",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\inputWindow.xaml",
+              "RelativeToolTip": "WPF_Tutorial\\inputWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T04:30:23.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\MenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MenuPage.xaml.cs",
+              "RelativeToolTip": "WPF_Tutorial\\MenuPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:04:24.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Tutorial\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:09:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Tutorial\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T01:09:04.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\MenuPage.xaml",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\MenuPage.xaml",
+              "RelativeToolTip": "WPF_Tutorial\\MenuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T03:02:37.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\Page2.xaml",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\Page2.xaml",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\Page2.xaml",
+              "RelativeToolTip": "WPF_Tutorial\\Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T03:03:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\Page1.xaml",
+              "RelativeDocumentMoniker": "WPF_Tutorial\\Page1.xaml",
+              "ToolTip": "C:\\Users\\qwe\\TestProjects\\C#\\WPF_Tutorial\\WPF_Tutorial\\Page1.xaml",
+              "RelativeToolTip": "WPF_Tutorial\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T03:02:58.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
