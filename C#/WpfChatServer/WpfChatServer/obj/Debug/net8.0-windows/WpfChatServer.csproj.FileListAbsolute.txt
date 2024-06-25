@@ -1,4 +1,0 @@
-C:\Users\qwe\TestProjects\C#\WpfChatServer\WpfChatServer\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\qwe\TestProjects\C#\WpfChatServer\WpfChatServer\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\qwe\TestProjects\C#\WpfChatServer\WpfChatServer\obj\Debug\net8.0-windows\WpfChatServer_MarkupCompile.cache
-C:\Users\qwe\TestProjects\C#\WpfChatServer\WpfChatServer\obj\Debug\net8.0-windows\WpfChatServer_MarkupCompile.lref
